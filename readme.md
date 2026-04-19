@@ -1,7 +1,7 @@
 A modern dark UI landing page template designed for web agencies, startups, and productivity-focused platforms. This project showcases a clean layout, responsive sections, and user-focused design.
 
 ### Live Preview
-http://127.0.0.1:5500/B12A01-landing-launchpad-main/index.html
+
 
 📌 Features
 🌙 Dark modern UI design
