@@ -1,5 +1,3 @@
-🚀 B12A01 - Landing Launchpad
-
 A modern dark UI landing page template designed for web agencies, startups, and productivity-focused platforms. This project showcases a clean layout, responsive sections, and user-focused design.
 
 ### Live Preview
